@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\dzXml\dzXml\bin\Debug\dzXml.exe.config
+C:\Users\Shipa\source\repos\dzXml\dzXml\bin\Debug\dzXml.exe
+C:\Users\Shipa\source\repos\dzXml\dzXml\bin\Debug\dzXml.pdb
+C:\Users\Shipa\source\repos\dzXml\dzXml\obj\Debug\dzXml.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\dzXml\dzXml\obj\Debug\dzXml.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\dzXml\dzXml\obj\Debug\dzXml.exe
+C:\Users\Shipa\source\repos\dzXml\dzXml\obj\Debug\dzXml.pdb

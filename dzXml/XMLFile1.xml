@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Car>
+  <Model> Mercedes Benz </Model>
+  <Wheels> 4 </Wheels>
+  <Colour> Black </Colour>
+  <Toning> true </Toning>
+</Car>
